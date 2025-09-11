@@ -7,4 +7,4 @@ A lightweight Python client for interacting with the ComfyUI API. Provides simpl
 
 You can try the demo notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/forester3/comfy_api_client/blob/main/comfyui_api_gradio.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/forester3/comfy_api_client/blob/main/comfyui_api_gradio.ipynb)
